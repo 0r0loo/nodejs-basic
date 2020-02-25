@@ -1,6 +1,6 @@
-# node.js·Î À¥¼­¹ö ±¸Ãà
+ï»¿# node.jsë¡œ ì›¹ì„œë²„ êµ¬ì¶•
 
-°¡Àå ±âÃÊ
+ê°€ìž¥ ê¸°ì´ˆ
 
 express
 
@@ -12,4 +12,4 @@ mongodb
 
 
 
-ÇÑ±ÛƒÆÁö³ªÈ®ÀÎ¿ë
+í•œê¸€êº ì§€ë‚˜í™•ì¸ìš© mm,,
